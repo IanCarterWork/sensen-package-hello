@@ -1,5 +1,6 @@
 {
-    "name": "sensen-package-hello",
+    "id": "sensen-package-hello",
+    "name": "Hello",
     "version": "0.0.1",
     "type": "package"
 }
